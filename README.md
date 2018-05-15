@@ -12,7 +12,15 @@ The work is only for academical purposes, in order to offer support for construc
 
 The repository only contains a few samples of the project, in case the user needs additional information, please contact me.
 
+### - Report about the most affordable Cloud computing choice to get a Hadoop cluster
 
+This report is a task for the Master of Big Data, and can be used as an illustrating guide in the work environment.
+This report reflects a research about the Cloud computing providers to get a Hadoop cluster is to use a, supposing that we have already developed a Spark application and our estimation is that we will need a system with at least the following configuration:
 
+- Processing units: 50 cores
+
+- Main memory: 100 GB of RAM
+
+- Storage: 10 TB
 
 
