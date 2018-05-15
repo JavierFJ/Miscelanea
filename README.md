@@ -8,6 +8,9 @@ The work consists in the whole design of a construction project of a road (conve
 
 The project just begins supposing that the viability study has been elaborated, every alternatives has benn considered and the route described in the project is the most viable.
 
+The work is only for academical purposes, in order to offer support for construction projects of roads.
+
+The repository only contains a few samples of the project, in case the user needs additional information, please contact me.
 
 
 
